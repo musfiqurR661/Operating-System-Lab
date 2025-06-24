@@ -1,0 +1,12 @@
+Final Completion Time: 14
+Average Waiting Time: 1.71429
+Average Turnaround Time: 3.71429
+
+ID,Arrival,Burst,Completion,Turnaround,Waiting
+1,4,3,11,7,4
+2,6,2,8,2,0
+3,2,1,3,1,0
+4,6,3,14,8,5
+5,4,1,6,2,1
+6,0,3,5,5,2
+7,0,1,1,1,0

@@ -1,0 +1,16 @@
+Final Completion Time: 14
+Average Waiting Time: 2.71
+Average Turnaround Time: 4.71
+
+ID,Arrival,Burst,Completion,Turnaround,Waiting
+1,4,3,10,6,3
+2,6,2,8,2,0
+3,2,1,4,2,1
+4,6,3,14,8,5
+5,4,1,11,7,6
+6,0,3,3,3,0
+7,0,1,5,5,4
+
+Gantt Chart:
+| P6 | P6 | P6 | P3 | P7 | P1 | P2 | P2 | P1 | P1 | P5 | P4 | P4 | P4 |
+0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
